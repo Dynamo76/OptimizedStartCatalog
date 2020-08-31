@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: stie.ru
+Sitemap: https://site.ru/sitemap.xml
